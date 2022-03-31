@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es" >
+<head>
+  <meta charset="UTF-8">
+  <title>Login Base de datos</title>
+  <link type="text/css" rel="stylesheet" href="./loginbd.css">
+</head>
+<body>
+<!-- parte del login -->
+<div class="login-page">
+  <div class="form">
+    <form class="login-form">
+      <input type="text" placeholder="Usuario"/>
+      <input type="password" placeholder="Contraseña"/>
+      <button>enviar</button>
+    </form>
+  </div>
+</div>
+<!-- invocar js -->
+<script src="./script.js"></script>
+</body>
+</html>
