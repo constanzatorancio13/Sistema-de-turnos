@@ -6,11 +6,11 @@
   <link type="text/css" rel="stylesheet" href="./loginbd.css">
 </head>
 <body>
-<!-- parte del login -->
+<!-- parte del login xd -->
 <div class="login-page">
   <div class="form">
     <form class="login-form">
-      <input type="text" placeholder="Usuario"/>
+      <input type="text" placeholder="Usuarios"/>
       <input type="password" placeholder="Contraseña"/>
       <button>enviar</button>
     </form>
