@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es" >
 <head>
   <meta charset="UTF-8">
@@ -9,6 +9,8 @@
 <!-- parte del login xd -->
 <div class="login-page">
   <div class="form">
+
+
     <form class="login-form">
       <input type="text" placeholder="Usuarios"/>
       <input type="password" placeholder="Contraseña"/>
